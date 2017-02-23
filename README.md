@@ -1,5 +1,6 @@
-# RouterControl-App
+# Router Control App
 Simple application I made to control my home router ;)
+Only works on D-Link 
 
 ![Alt text](http://imgur.com/5DDRFd3.jpg "Main Activity")
 ![Alt text](http://imgur.com/JUYqIfC.jpg "Diagnostic")
