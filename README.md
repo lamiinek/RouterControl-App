@@ -1,9 +1,9 @@
 # RouterControl-App
 Simple application I made to control my home router ;)
 
-![Alt text](http://imgur.com/zZ58S0I.jpg "screenshot")
-![Alt text](http://imgur.com/yUJHGkU.jpg "screenshot")
-![Alt text](http://imgur.com/WtSa855.jpg "screenshot")
-![Alt text](http://imgur.com/5YWvoEp.jpg "screenshot")
-![Alt text](http://imgur.com/KidHRwz.jpg "screenshot")
+![Alt text](http://imgur.com/5DDRFd3 "Main Activity")
+![Alt text](http://imgur.com/JUYqIfC "Diagnostic")
+![Alt text](http://imgur.com/cnnScvZ "clients")
+![Alt text](http://imgur.com/RYge84l "MAC filter")
 ![Alt text](http://imgur.com/47DaZPx.jpg "screenshot")
+![Alt text](http://imgur.com/SJ7VdKp "About")
